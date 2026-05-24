@@ -3,6 +3,5 @@
   "outputDirectory": "dist",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
-  ],
-  "nodeVersion": "18.17.0"
+  ]
 }
