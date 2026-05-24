@@ -7,6 +7,7 @@ const APP_BG = "#EDEDED";
 
 const LIST_MESES = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"];
 
+
 // ── Dados de exemplo gerados programaticamente ──────────────────────────
 function gerarDados() {
   const lojas = ["Loja A", "Loja B", "Loja C", "Loja D", "Loja E"];
