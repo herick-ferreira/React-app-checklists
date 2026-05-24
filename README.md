@@ -27,7 +27,7 @@ Dashboard interativo e responsivo construído com React, Expo e TypeScript. Exib
 ### 1. Instalar dependências
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 ### 2. Iniciar o app
