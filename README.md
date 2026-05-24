@@ -1,8 +1,9 @@
 # 📊 Dashboard React Native - Checklist de Qualidade Exemplo
 
-![Imagem do Dashboard]()
+<img width="1906" height="912" alt="image" src="https://github.com/user-attachments/assets/a48444d8-218d-445b-a6b3-e377455b13f3" />
 
-[Link para o projeto]()
+
+[Link para o projeto](https://react-native-app-checklists.vercel.app/)
 
 ---
 
